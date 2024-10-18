@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "json-fixer": "^1.6.15",
+    "jsonrepair": "^3.8.1",
+    "mongodb": "6.8",
+    "puppeteer": "^23.6.0"
+  }
+}
